@@ -1,0 +1,28 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración personal
+*.env
+.idea/
+.vscode/
+
+# Dependencias (Node.js, Python, etc.)
+node_modules/
+__pycache__/
+*.log
+
+# Archivos compilados
+*.class
+*.o
+*.so
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Archivos de empaquetamiento
+*.zip
+*.tar.gz
